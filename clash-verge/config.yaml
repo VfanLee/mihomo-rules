@@ -1,0 +1,7 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+proxies:
+proxy-groups:
+rule-providers:
+rules:
